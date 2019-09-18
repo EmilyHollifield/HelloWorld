@@ -1,3 +1,3 @@
 **Name** Emily Hollifield
-**Assignment name** Create Glitch Account and Page
-**Date** 8/27/19
+**Assignment name** 2a GitHub 
+**Date** 9/8/19
